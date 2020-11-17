@@ -1,2 +1,2 @@
 # J2ETest
-JavaEE案例
+JavaEE测试案例
